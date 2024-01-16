@@ -1,6 +1,3 @@
- # Try the app here
- 
-  https://deluxe-biscotti-9a41a5.netlify.app/
   
  # Getting Started with Create React App
 
